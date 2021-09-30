@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Assignment by Harsh</string>
+    <string name="frag_1_head">Graph</string>
+    <string name="frag_2_head">Fragment2</string>
+    <string name="frag_3_head">Fragment3</string>
+    <string name="frag_4_head">Fragment4</string>
+    <string name="logout">Log out</string>
 </resources>

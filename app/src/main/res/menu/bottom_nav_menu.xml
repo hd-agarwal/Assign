@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_frag_1"
+        android:title="@string/frag_1_head"
+        android:icon="@drawable/ic_baseline_show_chart_24"/>
+    <item
+        android:id="@+id/nav_frag_2"
+        android:title="@string/frag_2_head"
+        android:icon="@drawable/ic_baseline_check_box_outline_blank_24"/>
+    <item
+        android:id="@+id/nav_frag_3"
+        android:title="@string/frag_3_head"
+        android:icon="@drawable/ic_baseline_check_box_outline_blank_24"/>
+    <item
+        android:id="@+id/nav_frag_4"
+        android:title="@string/frag_4_head"
+        android:icon="@drawable/ic_baseline_check_box_outline_blank_24"/>
+</menu>
